@@ -22,4 +22,8 @@ Pandas
 NumPy
 Scikit-learn
 
+## Screen Shot
+![image](https://github.com/user-attachments/assets/d904b978-f26a-4be7-8081-7579364e9c3e)
+
+
 
